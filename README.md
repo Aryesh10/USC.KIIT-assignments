@@ -1,10 +1,5 @@
 # Diabetes Classifier
 
-## Group Members
-
-- **Name:** Aryesh
-- **Roll Number:** 2206169
-
 ## Project Description
 
 This project is a diabetes classification tool implemented in a Jupyter Notebook. The program uses a machine learning model to predict whether a person has diabetes based on certain medical parameters.
@@ -29,38 +24,38 @@ pip install numpy pandas matplotlib scikit-learn
 
 ## How to Run the Program
 
-1. **Download Project Files:**
-
-   - Download the project files from the provided Google Drive link.
-   - Ensure you have the following files:
-     - `Diabetes Classifier.ipynb` (Jupyter Notebook)
-     - The machine learning model file
-     - The dataset file
-
-2. **Place Files in a Directory:**
-
-   - Create a new directory on your computer and place all the downloaded files into it.
-
-3. **Navigate to the Project Directory:**
+1. **Clone the Repository:**
+   Clone the repository to your local machine using the following command:
 
    ```bash
-   cd <project-directory>
+   git clone <repository-url>
    ```
 
-4. **Launch Jupyter Notebook:**
+2. **Navigate to the Project Directory:**
+
+   ```bash
+   cd <repository-directory>
+   ```
+
+3. **Launch Jupyter Notebook:**
    Open a terminal or command prompt and run:
 
    ```bash
    jupyter notebook
    ```
 
-5. **Open the Notebook:**
+4. **Open the Notebook:**
    In the Jupyter Notebook interface, locate and open the file named `Diabetes Classifier.ipynb`.
 
-6. **Run the Notebook:**
+5. **Run the Notebook:**
    Execute each cell in sequence by clicking "Run" or using `Shift + Enter`. Ensure that all required libraries are installed beforehand.
 
 ## Notes
 
-- Ensure the dataset and model file paths in the notebook are correct. Update them if necessary to match the directory structure on your system.
+- Ensure the dataset and model files are included in the repository or provide instructions on how to obtain them.
+- Update file paths in the notebook if necessary to match the repository structure.
+
+## Contact
+
+For questions or support, please contact Aryesh at: [aryesh1014@gmail.com](mailto\:aryesh1014@gmail.com)
 
