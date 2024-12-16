@@ -63,9 +63,4 @@ pip install numpy pandas matplotlib scikit-learn
 ## Notes
 
 - Ensure the dataset and model file paths in the notebook are correct. Update them if necessary to match the directory structure on your system.
-- If any issues arise, verify your Python and library versions.
-
-## Contact
-
-For questions or support, please contact Aryesh at: aryesh1014\@gmail.com
 
